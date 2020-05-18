@@ -1,0 +1,11 @@
+.listItem {
+    border: solid 1px white
+}
+.favorite {
+    background-color: tomato
+}
+li{
+    list-style: none;
+    padding : 30px;
+    margin : 10px;
+    }
